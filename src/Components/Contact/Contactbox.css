@@ -1,0 +1,14 @@
+.cbox .cheading h2{
+    font-size: 5rem;
+    margin-left: 10%;
+    color: #8760e3;
+    font-family: 'Barriecito', cursive;
+}
+.cbox .cheading span{
+    font-size: 6rem;
+}
+.cbox .cinfo{
+    width: 100%;
+    height: 70vh;
+    padding-top: 3%;
+}

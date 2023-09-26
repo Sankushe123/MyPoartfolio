@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Exo+2:wght@300;600;800&family=Fugaz+One&display=swap');
+/* 
+font-family: 'Barriecito', cursive;
+font-family: 'Exo 2', sans-serif;
+font-family: 'Fugaz One', cursive; */
+.about{
+    width: 100%;
+    margin-top: -4vh;
+    height:fit-content;
+}
+.aboutCont h2{
+    font-size: 6rem;
+    margin-left: 10%;
+    color: #8760E3;
+    font-family: 'Barriecito', cursive;
+    /* color: #D1CDE1; */
+}
+.aboutCont span{
+    font-size: 7rem;
+}
+.aboutCont .note{
+    margin-left: 10%;
+}
+.aboutCont .note h3{
+    color: #D1CDE1;
+    font-size: 1.5rem;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 300;
+    margin-bottom: 1vh;
+}
+.infocont .options span{
+    padding: 1vh 3vh;
+    background-color: #D1CDE1;
+    margin: 3px;
+    border: 2px solid #8760E3;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    
+}

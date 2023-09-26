@@ -1,0 +1,40 @@
+.ci{
+    width: 50%;
+    height: 50vh;
+}
+.ci .leftbox{
+    width: 100%;
+    padding: 1vh;
+    margin: auto;
+    height: 50vh;
+}
+.ci .leftbox .left{
+    width: 70%;
+    padding: 2vh;
+    margin: auto;
+    margin-top: 1%;
+}
+.ci .leftbox .left img{
+    display: flex;
+    align-items: center;
+    width: 12%;
+    height: 12%;
+    border-radius: 50%;
+}
+.ci .leftbox .left .info{
+    width: 80%;
+    margin-left: 3vh;
+    height: auto;
+    word-wrap: break-word;
+}
+.ci .leftbox .left .info h2{
+    font-size: 23px;
+    margin-left: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #8760e3;
+}
+.ci .leftbox .left .info span{
+    font-size: 21px;
+    font-weight: 500;
+    color: aliceblue;
+}
