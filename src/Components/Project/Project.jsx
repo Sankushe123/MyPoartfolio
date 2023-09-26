@@ -22,13 +22,13 @@ const Project = () => {
   const projectdetails = [
     {image:nobroker,heading:"Property Renting Webapp",subh:'MERN Stack Project',gitlink:'#',previewlink:'#',info:'Reactjs, Nodejs, Expressjs, MongoDB, Redux Toolkit, Cloudinary, RestAPI'},
     {image:cryptoProject,heading:"Crypto Currency Analyzer",subh:'React Project',gitlink:'https://github.com/Sankushe123/Crypto-world.git',previewlink:'https://cryptoworld13.netlify.app/',info:'Reactjs, React Hook, Chakra UI, Deployed using netlify, RestAPI'},
-   
+  
   ]
   return (
     <div>
         <div className="projectCont ">
             <div className='pb' data-aos="fade-right"><h2><span>P</span>rojects</h2></div>
-            <div className="projectbox flex justify-center flex-wrap h-auto">
+            <div className="projectbox mb-24 flex justify-center flex-wrap h-auto">
             {  projectdetails.map((item)=>{
                 return(
                 <div className="tiltcard relative" 

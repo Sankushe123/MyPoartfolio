@@ -186,7 +186,7 @@
         display: block;
     }
     .educont ul li:nth-child(even){
-        left:-2vh !important;
+        left:-3vh !important;
     }
     .educont ul li:nth-child(odd){
         left: 8vh !important;
@@ -222,6 +222,10 @@
     }
 
     /* ----project----- */
+    .projectCont{
+       min-height:140vh ;
+        margin-bottom: 10vh;
+    }
     .projectCont .pb h2{
         font-size: 1.5rem;
     }
