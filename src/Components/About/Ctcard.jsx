@@ -20,7 +20,7 @@ const Ctcard = () => {
                             <div className="leftct" data-aos="fade-right">
                                 <img src={item.image} alt="img" className='ctimg w-1/4'/>
                             </div>
-                            <div className="rightct" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000">
+                            <div className="rightct mt-7" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1000">
                                 <h2>{item.name}</h2>
                                 <h3>Organization : {item.Org}</h3>
                                 <p>{item.desc}</p>

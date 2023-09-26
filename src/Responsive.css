@@ -31,7 +31,7 @@
     }
 }
 /* ------------------sm-mobile-device-------------------- */
-@media (min-width:361px) and (max-width:420px){
+@media (min-width:360px) and (max-width:420px){
     .workbtn{
         margin-top:12% ;
     }
