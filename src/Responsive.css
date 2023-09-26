@@ -31,7 +31,7 @@
     }
 }
 /* ------------------sm-mobile-device-------------------- */
-@media (min-width: 321px) and (max-width:360px){
+@media (min-width:361px) and (max-width:420px){
     .workbtn{
         margin-top:12% ;
     }
@@ -292,7 +292,7 @@
      }
 }
 /* ------------------lg-mobile-devices------------------- */
-@media (min-width:361px) and (max-width:420px){
+/* @media (min-width:361px) and (max-width:420px){
     .cont{
         display: block !important;
     }
@@ -395,7 +395,7 @@
        width: 100%;
        margin: auto;
       
-    }
+    } */
     /* -----------------Head---------------------- */
     
 }
