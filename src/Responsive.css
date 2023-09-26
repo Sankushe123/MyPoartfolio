@@ -186,7 +186,7 @@
         display: block;
     }
     .educont ul li:nth-child(even){
-        left:-1vh !important;
+        left:-2vh !important;
     }
     .educont ul li:nth-child(odd){
         left: 8vh !important;
